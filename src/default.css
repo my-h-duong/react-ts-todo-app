@@ -1,0 +1,8 @@
+.add-new-todo__label,
+.add-new-todo__input {
+  display: block;
+}
+
+.todo__title--done {
+  text-decoration: line-through;
+}
